@@ -2,60 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c37e79e2-7575-4cdf-b36a-7ef4f7c84e4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/courseinfo/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0006_period_schema_and_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0009_auto_20190330_2018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0010_load_instructor_test_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0012_create_groups.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/migrations/0013_create_group_permissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/static/courseinfo/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/static/courseinfo/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/static/courseinfo/skeleton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/static/courseinfo/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_form_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/course_refuse_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_form_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/instructor_refuse_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_form_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/registration_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_form_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/section_refuse_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_form_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/semester_refuse_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_form_update.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/templates/courseinfo/student_refuse_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/courseinfo/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dryden_alex_ez_university/settings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dryden_alex_ez_university/settings/development.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dryden_alex_ez_university/settings/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dryden_alex_ez_university.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dryden_alex_ez_university.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dryden_alex_ez_university/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dryden_alex_ez_university/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dryden_alex_ez_university/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dryden_alex_ez_university/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dryden_alex_ez_university/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dryden_alex_ez_university/settings/base.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +35,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings/development.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
-              <caret line="31" selection-start-line="31" selection-end-line="39" selection-end-column="14" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings/production.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+              <folding>
+                <element signature="e#326#335#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -96,14 +70,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>calendar_period</find>
       <find>migrations.AlterField</find>
       <find>period_name</find>
       <find>year</find>
@@ -133,6 +106,7 @@
       <find>InstructorLi</find>
       <find>(class )([A-z][a-z]+)(Detail)([(,),:,a-z,A-Z,\x20]+\n)</find>
       <find>(\w,)(\w)</find>
+      <find>(class )([A-Z][a-z]+)(Detail)([(,),:,a-z,A-Z,\x20]+\n)</find>
     </findStrings>
     <replaceStrings>
       <replace>$1 LoginRequiredMixin, PermissionRequiredMixin</replace>
@@ -161,11 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/templates/courseInfo/student_confirm_delete.html" />
-        <option value="$PROJECT_DIR$/templates/courseInfo/semester_confirm_delete.html" />
-        <option value="$PROJECT_DIR$/templates/courseInfo/section_confirm_delete.html" />
-        <option value="$PROJECT_DIR$/templates/courseInfo/registration_confirm_delete.html" />
-        <option value="$PROJECT_DIR$/templates/courseInfo/course_confirm_delete.html" />
         <option value="$PROJECT_DIR$/templates/courseInfo/student_refuse_delete.html" />
         <option value="$PROJECT_DIR$/templates/courseInfo/section_refuse_delete.html" />
         <option value="$PROJECT_DIR$/templates/courseInfo/confirm_delete.html" />
@@ -209,15 +178,20 @@
         <option value="$PROJECT_DIR$/courseinfo/templates/courseInfo/base.html" />
         <option value="$PROJECT_DIR$/courseinfo/migrations/0012_create_groups.py" />
         <option value="$PROJECT_DIR$/courseinfo/migrations/0013_create_group_permissions.py" />
-        <option value="$PROJECT_DIR$/dryden_alex_ez_university/settings.py" />
         <option value="$PROJECT_DIR$/courseinfo/views.py" />
         <option value="$PROJECT_DIR$/dryden_alex_ez_university/urls.py" />
+        <option value="$PROJECT_DIR$/dryden_alex_ez_university/settings.py" />
+        <option value="$PROJECT_DIR$/dryden_alex_ez_university/settings/__init__.py" />
+        <option value="$PROJECT_DIR$/dryden_alex_ez_university/settings/settings.py" />
+        <option value="$PROJECT_DIR$/dryden_alex_ez_university/settings/development.py" />
+        <option value="$PROJECT_DIR$/dryden_alex_ez_university/settings/production.py" />
+        <option value="$PROJECT_DIR$/dryden_alex_ez_university/settings/base.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="265" />
-    <option name="y" value="28" />
+    <option name="x" value="686" />
+    <option name="y" value="34" />
     <option name="width" value="1290" />
     <option name="height" value="1064" />
   </component>
@@ -244,25 +218,6 @@
             <path>
               <item name="dryden_alex_ez_university" type="b2602c69:ProjectViewProjectNode" />
               <item name="dryden_alex_ez_university" type="462c0819:PsiDirectoryNode" />
-              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dryden_alex_ez_university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dryden_alex_ez_university" type="462c0819:PsiDirectoryNode" />
-              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dryden_alex_ez_university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dryden_alex_ez_university" type="462c0819:PsiDirectoryNode" />
-              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="courseinfo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dryden_alex_ez_university" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dryden_alex_ez_university" type="462c0819:PsiDirectoryNode" />
               <item name="dryden_alex_ez_university" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -278,21 +233,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dryden_alex_ez_university/settings" />
+      <recent name="$PROJECT_DIR$/courseinfo/templates/courseinfo" />
+      <recent name="$PROJECT_DIR$/courseinfo/migrations" />
+      <recent name="$PROJECT_DIR$/courseinfo/templates/courseInfo" />
+      <recent name="$PROJECT_DIR$/courseinfo/templates" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/old_copy_of_db" />
       <recent name="$PROJECT_DIR$/templates/courseInfo" />
       <recent name="$PROJECT_DIR$/courseinfo" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/courseinfo/templates/courseinfo" />
-      <recent name="$PROJECT_DIR$/courseinfo/migrations" />
-      <recent name="$PROJECT_DIR$/courseinfo/templates/courseInfo" />
-      <recent name="$PROJECT_DIR$/courseinfo/templates" />
-      <recent name="$PROJECT_DIR$/courseinfo/static/courseinfo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -365,13 +320,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104381000" />
+    <option name="totallyTimeSpent" value="108383000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="265" y="28" width="1290" height="1064" extended-state="0" />
-    <editor active="true" />
+    <frame x="686" y="34" width="1290" height="1064" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37900642" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37900642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -385,7 +339,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="manage.py@dryden_alex_ez_university" order="11" visible="true" weight="0.39831403" />
+      <window_info active="true" anchor="bottom" id="manage.py@dryden_alex_ez_university" order="11" visible="true" weight="0.39831403" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32947367" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32982087" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -403,26 +357,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="First Week, model development" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0001_initial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-709" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0007_year_scheme_and_data.py" />
-    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0005_semester_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="67" lean-forward="true" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0007_year_schema_and_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0008_year_schema_and_data.py" />
     <entry file="file://$PROJECT_DIR$/courseinfo/migrations/0006_period_schema_and_data.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -637,26 +571,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3979">
-          <caret line="410" column="71" selection-start-line="410" selection-start-column="71" selection-end-line="410" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="130" column="42" selection-start-line="130" selection-start-column="42" selection-end-line="130" selection-end-column="42" />
-          <folding>
-            <element signature="e#326#335#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -730,10 +644,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/courseinfo/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="80" selection-start-line="79" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/courseinfo/templates/courseinfo/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-414">
           <caret line="31" selection-start-line="31" selection-end-line="39" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings/production.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings/development.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dryden_alex_ez_university/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+          <folding>
+            <element signature="e#326#335#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

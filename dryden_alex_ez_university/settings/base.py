@@ -57,7 +57,7 @@ ROOT_URLCONF = 'dryden_alex_ez_university.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'courseinfo/templates')]
+        'DIRS': [os.path.join(BASE_DIR, 'courseinfo/../../courseinfo/templates')]
         ,
         'APP_DIRS': True,
         'OPTIONS': {
@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'dryden_alex_ez_university.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'NAME': os.path.join(BASE_DIR, '../db.sqlite3'),
     }
 }
 
@@ -122,10 +122,12 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+STATIC_ROOT = os.path.join(BASE_DIR, '../static')
 
 LOGIN_REDIRECT_URL = 'about_urlpattern'
 
 LOGOUT_REDIRECT_URL = 'login_urlpattern'
 
 LOGIN_URL = reverse_lazy('login_urlpattern')
+
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
