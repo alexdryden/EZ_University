@@ -140,11 +140,8 @@ class StudentDetail(LoginRequiredMixin, PermissionRequiredMixin, View):
         registration_list = student.registration.all()
         return render(request,
                       'courseinfo/student_detail.html',
-                      {
-                'student': student,
-                'registration_list': registration_list,
-
-             }
+                      {'student': student,
+                       'registration_list': registration_list,}
                       )
 
 

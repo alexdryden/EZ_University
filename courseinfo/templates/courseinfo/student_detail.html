@@ -44,9 +44,9 @@
     <section>
         <h3>Sections</h3>
         <ul>
-            {% for section in section_list %}
+            {% for registration in registration_list %}
                 <li>
-                    <a href="{{ section.get_absolute_url }}">{{ section }}</a>
+                    <a href="{{ registration.get_absolute_url }}">{{ registration }}</a>
                 </li>
             {% empty %}
                 <li><em>This student is not currently registered for any sections.</em></li>
